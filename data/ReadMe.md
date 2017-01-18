@@ -1,4 +1,4 @@
-# Sensor air quality data from Palestine
+# Air quality data from Palestine (collected by IoT devices)
 * Notes
  * The files listed here are air quality data from sensors collecting either NO2 and CO or particulate matter (PM25) in addition to temperature and relative humidity. 
  * Devices are located indoors with limited indirect exposure to ambient atmosphere.
