@@ -17,4 +17,5 @@
 * Projects and Homeworks
  * Please create a GitHub account (if you haven't already) and upload your own work on homeworks using a friendly structure/navigation. Your notebooks must be readable (markdown cells and code comments).
  * Please provide a project proposal (one page) by February 18, 2017 (one per group). State the problem, data source(s), expected output and list group members. Projects will be presented in a special session one week from the last session.
- *Last updated: Feb. 11, 2017*
+ 
+*Last updated: Feb. 11, 2017*
