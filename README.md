@@ -6,6 +6,7 @@
  * A copy of the pre-class [interview questions](ds-interview-pre-class.docx)
  * A copy of the [Training outline](DataScience1Outline.pdf)
  * This file provides access to the important resources in this site. It will be updated regularly. You can ignore other files listed above (some are tests and may not work)
+ * Interesting read/view: [the future of jobs](https://www.youtube.com/watch?v=zyjoayAwDb8) short video and [full WEF report](http://reports.weforum.org/future-of-jobs-2016/).
 * Datasets
  * Environmental data: [Air Quality in Ramallah Area](data/)
  * More datasets can be found at [Kaggle](https://www.kaggle.com/), [UCI Machine learning datasets](https://archive.ics.uci.edu/ml/datasets.html), [data.gov](https://catalog.data.gov/dataset), [OECD](https://data.oecd.org/), [WorldBank](http://data.worldbank.org/), [EU data portal](https://www.europeandataportal.eu/), [DataHub](https://datahub.io/dataset) and [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - to name just a few. 
@@ -18,5 +19,12 @@
 * Projects and Homeworks
  * Please create a GitHub account (if you haven't already) and upload your own work on homeworks using a friendly structure/navigation. Your notebooks must be readable (markdown cells and code comments).
  * Please provide a project proposal (one page) by February 18, 2017 (one per group). State the problem, data source(s), expected output and list group members. Projects will be presented in a special session one week from the last session.
+* Sessions 7 and 8, project presentations
+ * Session 7 will be March 1st (Wednesday) at 4:00 PM and session 8 on Saturday March 4th at 9:00 AM.
+ * Project presentations: March 18th.
+* Applied Data Science (next course)
+ * All trainees who complete this course and present their projects are allowed to enroll
+ * Other candidates must demonstrate equivalent knowledge and skills through an assessment
+ * more information about part 2 in the [Applied Data Science](/ds2/) section.
  
-*Last updated: Feb. 14, 2017*
+*Last updated: Feb. 24, 2017*
