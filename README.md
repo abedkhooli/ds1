@@ -25,6 +25,6 @@
 * Applied Data Science (next course)
  * All trainees who complete this course and present their projects are allowed to enroll
  * Other candidates must demonstrate equivalent knowledge and skills through an assessment
- * more information about part 2 in the [Applied Data Science](/ds2/) section.
+ * more information about part 2 in the [Applied Data Science](../ds2/) section.
  
 *Last updated: Feb. 24, 2017*
