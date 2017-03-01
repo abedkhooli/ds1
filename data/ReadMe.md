@@ -9,6 +9,6 @@
  * The PM25 sensors reading frequency is once every 60 seconds, the NO2/CO units every 30 seconds or less (see dataset). 
  * An example visualizing one sensor's NO2 values over the past hour in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTk0MWZlNzgtNTE5NS00NjgyLWIxMWEtYWQzM2JjZDhiYTZjIiwidCI6IjQ3MjI2Y2Q0LWYyZjctNGMwNS1hMzg0LWRmZTcxZGE0YjM1OSIsImMiOjEwfQ%3D%3D) and another example of [4 sensors charted and mapped](https://app.powerbi.com/view?r=eyJrIjoiMDg1ODY1YzQtYTU5Yy00MzQxLWJkYzgtZGU2NjczYjRmNDBmIiwidCI6IjQ3MjI2Y2Q0LWYyZjctNGMwNS1hMzg0LWRmZTcxZGE0YjM1OSIsImMiOjEwfQ%3D%3D). Locations are not exact. A copy of a [Power BI file](AllNO2-pub.pbix) is included __without API Key__ (it will not refresh) - just in case you need to see the actual queries. Here's also a [blog post](https://www.linkedin.com/pulse/tracking-air-quality-iot-sensors-publishing-open-data-abed-khooli) about this activity.
  * Data is provided as is and __may not be suitable for scientific research__
- * If you find data here useful or use it for common good, kindly let us know (mention [@akhooli](https://twitter.com/) and [@ddiMENA](https://twitter.com/ddimena) on Twitter)
+ * If you find data here useful or use it for common good, kindly let us know (mention [@akhooli](https://twitter.com/akhooli) and [@ddiMENA](https://twitter.com/ddimena) on Twitter)
 
 *Last updated: March 1, 2017*
