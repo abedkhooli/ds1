@@ -21,7 +21,7 @@
  * Please create a GitHub account (if you haven't already) and upload your own work on homeworks using a friendly structure/navigation. Your notebooks must be readable (markdown cells and code comments).
  * Please provide a project proposal (one page) by February 18, 2017 (one per group). State the problem, data source(s), expected output and list group members. Projects will be presented in a special session one week from the last session.
 * Sessions 7 and 8, project presentations
- * Session 7 will be March 1st (Wednesday) at 4:00 PM and session 8 on Saturday March 4th at 9:00 AM.
+ * Session 7 will be March 1st (Wednesday) at 4:00 PM and session 8 on Saturday March 4th at __8:00 AM__.
  * __Project presentations__: March 18th.
 * __Applied Data Science (next course)__
  * All trainees who complete this course and present their projects are allowed to enroll
