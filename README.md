@@ -22,10 +22,10 @@
  * Please provide a project proposal (one page) by February 18, 2017 (one per group). State the problem, data source(s), expected output and list group members. Projects will be presented in a special session one week from the last session.
 * Sessions 7 and 8, project presentations
  * Session 7 will be March 1st (Wednesday) at 4:00 PM and session 8 on Saturday March 4th at 9:00 AM.
- * Project presentations: March 18th.
-* Applied Data Science (next course)
+ * __Project presentations__: March 18th.
+* __Applied Data Science (next course)__
  * All trainees who complete this course and present their projects are allowed to enroll
  * Other candidates must demonstrate equivalent knowledge and skills through an assessment
- * more information about part 2 in the [Applied Data Science](../../../ds2/) section.
+ * More information about part 2 in the [Applied Data Science](../../../ds2/) section.
  
 *Last updated: Mar. 2, 2017*
