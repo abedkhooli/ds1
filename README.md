@@ -7,7 +7,7 @@
  * A copy of the [Training outline](DataScience1Outline.pdf)
  * This file provides access to the important resources in this site. It will be updated regularly. You can ignore other files listed above (some are tests and may not work)
  * Interesting read/view: [the future of jobs](https://www.youtube.com/watch?v=zyjoayAwDb8) short video and [full WEF report](http://reports.weforum.org/future-of-jobs-2016/).
- * Data Science Ethics: you can take [this free edX MOOC](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1) from the University of Michigan (but apply local context to raised issues).
+
 * Datasets
  * Environmental data: [Air Quality in Ramallah Area](data/)
  * More datasets can be found at [Kaggle](https://www.kaggle.com/), [UCI Machine learning datasets](https://archive.ics.uci.edu/ml/datasets.html), [data.gov](https://catalog.data.gov/dataset), [OECD](https://data.oecd.org/), [WorldBank](http://data.worldbank.org/), [EU data portal](https://www.europeandataportal.eu/), [DataHub](https://datahub.io/dataset) and [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - to name just a few. 
@@ -15,8 +15,10 @@
  
 * Useful Resources
  * Python and Jupyter: [Anaconda distribution download](https://www.continuum.io/downloads),  [IPython Notebook Tutorial (Jupyter)](https://plot.ly/python/ipython-notebook-tutorial/), [Change Jupyter Home directory](https://wolfscie.wordpress.com/2016/04/01/home-directory-in-jupyter/), [Python basics course 1: edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3), [Python basics course 2: Coursera](https://www.coursera.org/learn/python-data-analysis/), A [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython). Here's some [markdown help](https://guides.github.com/features/mastering-markdown/). To get your working directory (where your notebook is), use %ls in a code cell and %lsmagic to get all similar commands. See [more magic commands] (https://ipython.org/ipython-doc/3/interactive/magics.html) help. Append ? to a method to get help. For a list of installed packages, use __conda list__ and __pip freeze__ (take the union of the two lists). See also [Kaggle](https://www.kaggle.com/) for both code examples and datasets. A list of [Python packages](https://pypi.python.org/pypi) has many useful tools. For more help on Jupyter notebooks, see [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). Here's also a [video tutorial on Jupyter](https://www.youtube.com/watch?v=HW29067qVWk).
- * Statistical Foundations: [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-0). See also [Empirical CDF](https://onlinecourses.science.psu.edu/stat464/node/84). A list of [Common Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) is also available. See also: [A Refresher on Statistical Significance](https://hbr.org/2016/02/a-refresher-on-statistical-significance)
+ * Statistical Foundations: [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-0). See also [Empirical CDF](https://onlinecourses.science.psu.edu/stat464/node/84). A list of [Common Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) is also available. See also: [A Refresher on Statistical Significance](https://hbr.org/2016/02/a-refresher-on-statistical-significance). There are two books for in-depth knowledge: [The Elements of Statistical Learning:Data Mining, Inference,  and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/) and [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) with examples in R.
  * Mathematical Foundations: [Math for Data Science: Self Starter](https://elitedatascience.com/learn-math-for-data-science), [Essence of Linear Algebra](http://www.3blue1brown.com/essence-of-linear-algebra/), [Calculus for Deep Learning](http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning). Most of this material is relevant for both this course and next one.
+ * Two helpful introductory courses: [Foundations of Data Science](https://data-8.appspot.com/sp16/course) from Berkeley and [CS 109 Data Science](http://cs109.github.io/2015/) from Harvard.
+ * Data Science Ethics: you can take [this free edX MOOC](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1) from the University of Michigan (but apply local context to raised issues).
 * Projects and Homeworks
  * Please create a GitHub account (if you haven't already) and upload your own work on homeworks using a friendly structure/navigation. Your notebooks must be readable (markdown cells and code comments).
  * Please provide a project proposal (one page) by February 18, 2017 (one per group). State the problem, data source(s), expected output and list group members. Projects will be presented in a special session one week from the last session.
@@ -26,6 +28,6 @@
 * __Applied Data Science (next course)__
  * All trainees who complete this course and present their projects are allowed to enroll
  * Other candidates must demonstrate equivalent knowledge and skills through an assessment
- * More information about part 2 in the [Applied Data Science](../../../ds2/) section.
+ * More information about next course (part 2) in the [Applied Data Science](../../../ds2/) section.
  
-*Last updated: Mar. 2, 2017*
+*Last updated: Mar. 4, 2017*
