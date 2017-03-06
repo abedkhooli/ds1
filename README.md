@@ -6,7 +6,7 @@
  * A copy of the pre-class [interview questions](ds-interview-pre-class.docx)
  * A copy of the [Training outline](DataScience1Outline.pdf)
  * This file provides access to the important resources in this site. It will be updated regularly. You can ignore other files listed above (some are tests and may not work)
- * Interesting read/view: [the future of jobs](https://www.youtube.com/watch?v=zyjoayAwDb8) short video and [full WEF report](http://reports.weforum.org/future-of-jobs-2016/).
+ * Interesting read/view: [the future of jobs](https://www.youtube.com/watch?v=zyjoayAwDb8) short video and [full WEF report](http://reports.weforum.org/future-of-jobs-2016/). See also: [5 Jobs Robots Will Take First and 5 They Will Take Last](https://twitter.com/akhooli/status/838691125732986881)
 
 * Datasets
  * Environmental data: [Air Quality in Ramallah Area](data/)
