@@ -2,7 +2,7 @@
 * Notes
  * The files listed here are air quality data from sensors collecting either NO2 and CO or particulate matter (PM25) in addition to temperature and relative humidity. 
  * Devices are located indoors with limited indirect exposure to ambient atmosphere.
- * For files marked ambient, devices were on top of a building powered by a pwer bank and data written to microSD. Weather was nice and clear except March 7 (active western wind).
+ * For files marked ambient, devices were on top of a building powered by a power bank and data written to microSD. Weather was nice and clear except March 7 (active western wind) and March 10 (patchy, dusty light north western wind). NO2/CO device time is one hour ahead.
  * The significant colums are time stamp, temperature [deg C], relative humidity [%] and either PM25 [micro gram/m3] or NO2 [parts per billion or ppb] and CO [parts per million or ppm]. 
  * Data in csv format (after decompression) provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/). For more information about __Open Data__, see [The Open Data Charter](http://opendatacharter.net/), [Open Knowledge Int'l](https://okfn.org/), [Open Data Institute](http://theodi.org/) and [the Open Data Barometer](http://webfoundation.org/our-work/projects/open-data-barometer/). For data in general, see [School of Data](https://schoolofdata.org/).
  * We will try to provide additional sensor data and increment available datasets but there is no guarantee this will happen on regular basis. For air quality globally, try [WHO database](http://www.who.int/phe/health_topics/outdoorair/databases/cities/en/), [AQICN](http://aqicn.org/city/jerusalem/) and [AirVisual](https://airvisual.com/earth) with various degrees of coverage and accuracy.
@@ -12,4 +12,4 @@
  * Data is provided as is and __may not be suitable for scientific research__
  * If you find data here useful or use it for common good, kindly let us know (mention [@akhooli](https://twitter.com/akhooli) and [@ddiMENA](https://twitter.com/ddimena) on Twitter)
 
-*Last updated: March 9, 2017*
+*Last updated: March 10, 2017*
