@@ -1,5 +1,5 @@
 # Air quality data from Palestine (collected by IoT devices)
-* Notes
+__Notes__
  * The files listed here are air quality data from sensors collecting either NO2 and CO or particulate matter (PM25) in addition to temperature and relative humidity. 
  * Unless indicated otherwise, devices are located indoors with limited indirect exposure to ambient atmosphere.
  * For files marked *ambient*, devices were on top of a building powered by a power bank (5600 mAh, lasts 4-5 hours) and data written to microSD. Weather was nice and clear except March 7 (active western wind) and March 10 (patchy, dusty light north western wind). NO2/CO device time is one hour ahead. Note: March 11 and 12 had high PM2.5 concentrations (both predicted and measured).
