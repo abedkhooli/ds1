@@ -1,5 +1,5 @@
 # Data Science Fundamentals (DS1): Training Resources
-* General Notes
+## General Notes
  * This site provides __additional resources__ for the Data Science Fundamentals training course. Trainer's notes are available at the [Trainer's Git Repository](https://github.com/Abdel-Razzak/Data-Science-Fundamentals). Note: [updated trainer's notes with navigation](https://github.com/Abdel-Razzak/DSF). To stay up to date, you can follow hashtags like [#DataScience]( https://twitter.com/search?q=%23DataScience) on Twitter.
  * If a file does not open in the interface, use the __View Raw__ or __download__ links. Jupyter notebooks (.ipynb files), can be opened with the [nbviewer] (https://nbviewer.jupyter.org/) if they fail to open directly from Github.
  * All material here is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
