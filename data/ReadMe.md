@@ -3,6 +3,7 @@ __Notes__
  * The files listed here are air quality data from sensors collecting either NO2 and CO or particulate matter (PM25) in addition to temperature and relative humidity. 
  * Unless indicated otherwise, devices are located indoors with limited indirect exposure to ambient atmosphere.
  * For files marked *ambient*, devices were on top of a building powered by a power bank (5600 mAh, lasts 4-5 hours) and data written to microSD. Weather was nice and clear except March 7 (active western wind) and March 10 (patchy, dusty light north western wind). NO2/CO device time is one hour ahead. Note: March 11 and 12 had high PM2.5 concentrations (both predicted and measured). When devices switch power from mains to battery, initial readings are not reliable (usually a rise in CO readings followed by high NO2 levels - around 60 minutes should be discarded from the start of each run on battery)
+ * data in the file marked __RuralNearQuarry__ was collected indoor in a village with nearby quarries. Location was switched on March 19th (within same area).
  * The significant colums are time stamp, temperature [deg C], relative humidity [%] and either PM25 [micro gram/m3] or NO2 [parts per billion or ppb] and CO [parts per million or ppm]. 
  * Data in csv format (after decompression) provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/). For more information about __Open Data__, see [The Open Data Charter](http://opendatacharter.net/), [Open Knowledge Int'l](https://okfn.org/), [Open Data Institute](http://theodi.org/) and [the Open Data Barometer](http://webfoundation.org/our-work/projects/open-data-barometer/). For data in general, see [School of Data](https://schoolofdata.org/).
  * We will try to provide additional sensor data and increment available datasets but there is no guarantee this will happen on regular basis. For air quality globally, try [WHO database](http://www.who.int/phe/health_topics/outdoorair/databases/cities/en/), [AQICN](http://aqicn.org/city/jerusalem/) and [AirVisual](https://airvisual.com/earth) with various degrees of coverage and accuracy.
@@ -12,4 +13,4 @@ __Notes__
  * Data is provided as is and __may not be suitable for scientific research__
  * If you find data here useful or use it for common good, kindly let us know (mention [@akhooli](https://twitter.com/akhooli) and [@ddiMENA](https://twitter.com/ddimena) on Twitter)
 
-*Last updated: April 6, 2017*
+*Last updated: April 22, 2017*
